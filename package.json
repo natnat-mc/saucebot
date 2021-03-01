@@ -1,0 +1,24 @@
+{
+  "name": "saucebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natnat-mc/saucebot.git"
+  },
+  "author": "Codinget",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natnat-mc/saucebot/issues"
+  },
+  "homepage": "https://github.com/natnat-mc/saucebot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "jsdom": "^16.4.0",
+    "node-fetch": "^2.6.1"
+  }
+}
